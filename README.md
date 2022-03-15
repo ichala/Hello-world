@@ -13,8 +13,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/ichala/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alijendoubi/)
+- GitHub: [@gichala](https://github.com/ichala/)
+- LinkedIn: [visit](https://www.linkedin.com/in/alijendoubi/)
 
 
 ## 🤝 Contributing
